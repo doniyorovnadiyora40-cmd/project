@@ -1,0 +1,22 @@
+2026-10-03 13:11:28,435 - INFO - __init__ - Xona yaratildi: 101
+2026-10-03 13:11:28,435 - INFO - band_qilish - Ali 101-xonani band qildi
+2026-10-03 13:11:28,436 - INFO - band_qilish - Vali 101-xonani band qildi
+2026-10-03 13:11:28,436 - WARNING - band_qilish - 101-xona to'la
+2026-10-03 13:11:28,436 - INFO - bekor_qilish - Ali bronni bekor qildi
+2026-10-03 13:11:28,436 - ERROR - bekor_qilish - Hasan bron topilmadi
+2026-10-03 13:11:55,155 - INFO - __init__ - Xona yaratildi: 101
+2026-10-03 13:11:55,155 - INFO - band_qilish - Ali 101-xonani band qildi
+2026-10-03 13:11:55,155 - INFO - band_qilish - Vali 101-xonani band qildi
+2026-10-03 13:11:55,155 - WARNING - band_qilish - 101-xona to'la
+2026-10-03 13:11:55,155 - INFO - bekor_qilish - Ali bronni bekor qildi
+2026-10-03 13:11:55,156 - ERROR - bekor_qilish - Hasan bron topilmadi
+2026-10-03 13:15:35,910 - INFO - __init__ - Xona yaratildi: 101
+2026-10-03 13:15:35,911 - INFO - band_qilish - Ali 101-xonani band qildi
+2026-10-03 13:15:35,911 - INFO - band_qilish - Vali 101-xonani band qildi
+2026-10-03 13:15:35,911 - WARNING - band_qilish - 101-xona to'la
+2026-10-03 13:15:35,911 - INFO - bekor_qilish - Ali bronni bekor qildi
+2026-10-03 13:15:35,911 - ERROR - bekor_qilish - Hasan bron topilmadi
+2026-10-03 13:15:35,931 - INFO - <module> - A
+2026-10-03 13:15:35,931 - WARNING - <module> - B
+2026-10-03 13:15:35,931 - ERROR - <module> - C
+2026-10-03 13:15:35,931 - CRITICAL - <module> - E

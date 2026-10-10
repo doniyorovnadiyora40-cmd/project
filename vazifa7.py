@@ -1,0 +1,5 @@
+a=int(input("Yoshingiz: "))
+b=int(input("Oylik daromadingiz: "))
+c=input("Qora ro'yxatdamisiz (ha/yo'q): ")
+d=a>22 and b>=5000000 and not(c=="ha")
+print(f"Kredit beriladi: {d}")
